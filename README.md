@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # udaci-meals
 
 This README outlines the details of collaborating on this Ember application.
@@ -50,3 +51,7 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+=======
+# UdaciMeals
+Resturant reviewer project based on Udacity course. Built using Ember.js
+>>>>>>> 3cc1733c17d100fd6bb8503b0976bfeeb1118f07
